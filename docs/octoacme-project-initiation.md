@@ -35,6 +35,8 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+- [ ] Draft initial RACI chart to clarify roles and responsibilities (see [RACI Chart Template](templates/raci-chart-template.md))
+- [ ] Prepare team onboarding materials if new members joining (see [Team Onboarding Checklist](templates/team-onboarding-checklist.md))
 
 ## Decision Gate
 Move to planning when:

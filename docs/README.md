@@ -14,6 +14,7 @@ Quality assurance is tightly integrated into the delivery workflow. Every new lo
 
 This section provides direct links to all core OctoAcme project management process documents:
 
+### Core Process Documents
 - [Project Management Overview](octoacme-project-management-overview.md) — High-level introduction to OctoAcme's project management approach, principles, and core roles
 - [Project Initiation Guide](octoacme-project-initiation.md) — Initial steps to validate and authorize work, align stakeholders, and create a lightweight plan
 - [Project Planning](octoacme-project-planning.md) — Detailed planning phase including backlog creation, sprint planning, and Definition of Done
@@ -22,6 +23,19 @@ This section provides direct links to all core OctoAcme project management proce
 - [Release & Deployment Guide](octoacme-release-and-deployment.md) — Release planning, deployment procedures, and go-live checklists
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) — Post-sprint/milestone retrospectives and continuous improvement practices
 - [Roles and Personas](octoacme-roles-and-personas.md) — Detailed role definitions and responsibilities for project team members
+
+### Templates and Tools
+The [templates/](templates/) directory provides reusable templates for common project artifacts:
+- [RACI Chart Template](templates/raci-chart-template.md) — Responsibility assignment matrix for clarifying accountability
+- [Team Onboarding Checklist](templates/team-onboarding-checklist.md) — Comprehensive onboarding guide for new team members
+- [Risk Escalation Paths](templates/risk-escalation-paths.md) — Detailed escalation procedures and communication templates
+
+**Version 2.0 Updates (2026-02-08):**
+- Expanded Roles and Personas to include UX/UI Designer, Technical Writer, Security Lead, Support Engineer, and Business Analyst
+- Added RACI chart template for responsibility matrices
+- Added comprehensive team onboarding checklist with role-specific guidance
+- Added risk escalation paths with detailed procedures and communication templates
+- Updated core process documents with cross-references to new templates
 
 ---
 

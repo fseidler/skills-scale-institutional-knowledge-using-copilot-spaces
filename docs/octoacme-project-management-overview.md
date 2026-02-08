@@ -1,5 +1,9 @@
 # OctoAcme Project Management Overview
 
+**Version:** 2.0  
+**Last Updated:** 2026-02-08  
+**Change Summary:** Expanded core roles to include cross-functional team members and added references to new process templates.
+
 ## Purpose
 Provide a concise, shareable introduction to how OctoAcme runs projects so new teammates can quickly understand our approach, roles, and key artifacts.
 
@@ -14,19 +18,30 @@ Applies to all cross-functional projects that deliver product features, services
 - Psychological safety: encourage feedback and learning.
 
 ## Core Roles
-- Project Manager (PM): coordinates delivery, schedules, risk, communications.
-- Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
-- Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
-- Stakeholders: provide inputs and approvals.
+- **Project Manager (PM):** Coordinates delivery, schedules, risk, communications.
+- **Product Manager (PdM):** Defines outcomes, prioritizes backlog, and measures success.
+- **Developers:** Implement features, collaborate on design and testability.
+- **QA/Testing:** Validate quality and acceptance criteria.
+- **UX/UI Designer:** Ensures accessible and user-friendly design through wireframes and prototypes.
+- **Technical Writer:** Delivers user and technical documentation for transparency and support.
+- **Security Lead:** Ensures product security and regulatory compliance.
+- **Support Engineer:** Interfaces between users and product team for rapid issue resolution.
+- **Business Analyst:** Translates business requirements into actionable specifications.
+- **Stakeholders:** Provide inputs and approvals.
+
+See [Roles and Personas](octoacme-roles-and-personas.md) for detailed role definitions and interaction patterns.
 
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan
 - Sprint/Iteration Backlog
 - Acceptance Criteria & Definition of Done
-- Risk Register
+- Risk Register and Escalation Paths
+- RACI Chart (Responsibility Assignment Matrix)
+- Team Onboarding Checklist
 - Retrospective notes and action items
+
+**Templates:** See the [templates/](templates/) directory for RACI charts, onboarding checklists, and risk escalation guides.
 
 ## Lifecycle (high-level)
 1. Initiation: problem statement, stakeholders, high-level timeline.

@@ -41,3 +41,8 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] RACI chart created and reviewed with team (see [RACI Chart Template](templates/raci-chart-template.md))
+- [ ] Cross-functional role assignments confirmed (Design, Security, Documentation, Support)
+
+## Roles and Accountability
+For complex projects involving multiple functions, create a RACI chart early in planning to clarify who is Responsible, Accountable, Consulted, and Informed for each key deliverable. This prevents confusion and ensures clear ownership. See the [RACI Chart Template](templates/raci-chart-template.md) for guidance.
