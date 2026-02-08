@@ -28,9 +28,9 @@ Proceed to the activities and run the provided prompts in your Copilot Space.
 ### ⌨️ Activity: Explore the project management process docs and Summarize in your Copilot Space
 
 - Generate a summary. Should be 3-4 paragraphs covering the main processes OctoAcme uses for project management.
-- Open your Copilot Space you created in the previous step. https://github.com/copilot/spaces or by clicking the name <img width="50%" height="50%" alt="link to Copilot Space" src="../images/link-to-copilot-space.png" />
+- Open your Copilot Space you created in the previous step. https://github.com/copilot/spaces or by clicking the name <img width="50%" height="50%" alt="link to Copilot Space" src="https://raw.githubusercontent.com/fseidler/skills-scale-institutional-knowledge-using-copilot-spaces/main/.github/images/link-to-copilot-space.png" />
 - Start a new conversation in the Copilot Space and prompt the following:
-  <img width="70%" height="70%" alt="Copilot Space conversation OctoAcme project management process docs summary" src="../images/copilot-space-conversation-summary.png" />
+  <img width="70%" height="70%" alt="Copilot Space conversation OctoAcme project management process docs summary" src="https://raw.githubusercontent.com/fseidler/skills-scale-institutional-knowledge-using-copilot-spaces/main/.github/images/copilot-space-conversation-summary.png" />
 
   > ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
   >
@@ -43,7 +43,7 @@ Proceed to the activities and run the provided prompts in your Copilot Space.
 <details>
 <summary> 📷 Show screenshot of the conversation output</summary>
 
-<img width="50%" height="50%" alt="Copilot response with the summary" src="../images/copilot-response-summary.png" />
+<img width="50%" height="50%" alt="Copilot response with the summary" src="https://raw.githubusercontent.com/fseidler/skills-scale-institutional-knowledge-using-copilot-spaces/main/.github/images/copilot-response-summary.png" />
 
 </details>
 
@@ -68,7 +68,7 @@ In this activity, you will connect the issue you created in Step 1 to your Copil
 
 1. **Create the pull request**: Now send this prompt to create the pull request:
 
-   <img width="80%" height="80%" alt="repository issue and pull request creation" src="../images/repository-issue-pr-creation-step2.png" />
+   <img width="80%" height="80%" alt="repository issue and pull request creation" src="https://raw.githubusercontent.com/fseidler/skills-scale-institutional-knowledge-using-copilot-spaces/main/.github/images/repository-issue-pr-creation-step2.png" />
 
    > ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
    >
@@ -83,18 +83,18 @@ In this activity, you will connect the issue you created in Step 1 to your Copil
 
 1. **Allow the coding agent**: When prompted, select **Allow** to let the coding agent work on your repository
 
-   <img width="50%" height="50%" alt="Copilot coding agent allow" src="../images/copilot-coding-agent-allow.png" />
+   <img width="50%" height="50%" alt="Copilot coding agent allow" src="https://raw.githubusercontent.com/fseidler/skills-scale-institutional-knowledge-using-copilot-spaces/main/.github/images/copilot-coding-agent-allow.png" />
 
 1. **Monitor progress**: You should receive a notification that the Copilot coding agent is working on your pull request.
 
    There are two ways you can check the status of the coding agent working on your pull request
    1. Go to your repository and click **Pull requests** to see the progress:
 
-      <img width="70%" height="70%" alt="pull requests" src="../images/pull-requests.png" />
+      <img width="70%" height="70%" alt="pull requests" src="https://raw.githubusercontent.com/fseidler/skills-scale-institutional-knowledge-using-copilot-spaces/main/.github/images/pull-requests.png" />
 
    1. You can track progress and view details in **Mission Control** for **agent tasks** by following the task link
 
-      <img width="40%" height="40%" alt="mission control" src="../images/mission-control.png" />
+      <img width="40%" height="40%" alt="mission control" src="https://raw.githubusercontent.com/fseidler/skills-scale-institutional-knowledge-using-copilot-spaces/main/.github/images/mission-control.png" />
 
 1. **Check open pull requests**: We can check pull request status from our **Copilot Space** as well.
 
@@ -104,7 +104,7 @@ In this activity, you will connect the issue you created in Step 1 to your Copil
    > check open pull requests
    > ```
 
-   <img width="40%" height="40%" alt="mission control" src="../images/mission-control-check-prs.png" />
+   <img width="40%" height="40%" alt="mission control" src="https://raw.githubusercontent.com/fseidler/skills-scale-institutional-knowledge-using-copilot-spaces/main/.github/images/mission-control-check-prs.png" />
 
 > [!NOTE]  
 > The coding agent typically takes 5-15 minutes to complete the work. You can click **View session** to watch the progress if desired.
@@ -113,14 +113,14 @@ In this activity, you will connect the issue you created in Step 1 to your Copil
 
    a. **Submit review**: Leave a comment (optional), click **Approve**, then **Submit review**
 
-      <img width="70%" height="70%" alt="Add review" src="../images/add-review.png" />
+      <img width="70%" height="70%" alt="Add review" src="https://raw.githubusercontent.com/fseidler/skills-scale-institutional-knowledge-using-copilot-spaces/main/.github/images/add-review.png" />
 
-      <img width="50%" height="50%" alt="Submit review" src="../images/submit-review.png" />
+      <img width="50%" height="50%" alt="Submit review" src="https://raw.githubusercontent.com/fseidler/skills-scale-institutional-knowledge-using-copilot-spaces/main/.github/images/submit-review.png" />
 
    b. **Merge**: Select **Ready for review**, then **Merge pull request** and **Confirm merge**
 
-      <img width="50%" height="50%" alt="Ready for review" src="../images/ready-for-review.png" />
-      <img width="50%" height="50%" alt="Merge pull request" src="../images/merge-pull-request.png" />
+      <img width="50%" height="50%" alt="Ready for review" src="https://raw.githubusercontent.com/fseidler/skills-scale-institutional-knowledge-using-copilot-spaces/main/.github/images/ready-for-review.png" />
+      <img width="50%" height="50%" alt="Merge pull request" src="https://raw.githubusercontent.com/fseidler/skills-scale-institutional-knowledge-using-copilot-spaces/main/.github/images/merge-pull-request.png" />
 
 <details>
 <summary>Having trouble? 🤷</summary>

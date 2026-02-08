@@ -32,7 +32,7 @@ To get started, you need access to Copilot Spaces and a GitHub Copilot plan with
 
 1. Click **Save**
 
-   <img width="50%" height="50%" alt="Copilot Space Create Space" src="../images/copilot-space-create-space.png" />
+   <img width="50%" height="50%" alt="Copilot Space Create Space" src="https://raw.githubusercontent.com/fseidler/skills-scale-institutional-knowledge-using-copilot-spaces/main/.github/images/copilot-space-create-space.png" />
 
 Add a description:
 
@@ -40,15 +40,15 @@ Add a description:
 > Centralizing and democratizing project management knowledge for the OctoAcme organization
 > ```
 
-   <img width="50%" height="50%" alt="Copilot Spaces description" src="../images/copilot-spaces-description.png" />
+   <img width="50%" height="50%" alt="Copilot Spaces description" src="https://raw.githubusercontent.com/fseidler/skills-scale-institutional-knowledge-using-copilot-spaces/main/.github/images/copilot-spaces-description.png" />
 
 ### ⌨️ Activity: Add instructions to your Copilot Space
 
 - In your newly created Copilot Space, look for the **Instructions** button
 - Add the following instructions to provide context about the repository and its purpose
 
-  <img width="50%" height="50%" alt="Copilot Spaces Instructions" src="../images/copilot-spaces-instructions.png" />
-  <img width="50%" height="50%" alt="Copilot Spaces Instructions detail" src="../images/copilot-spaces-instructions-detail.png" />
+  <img width="50%" height="50%" alt="Copilot Spaces Instructions" src="https://raw.githubusercontent.com/fseidler/skills-scale-institutional-knowledge-using-copilot-spaces/main/.github/images/copilot-spaces-instructions.png" />
+  <img width="50%" height="50%" alt="Copilot Spaces Instructions detail" src="https://raw.githubusercontent.com/fseidler/skills-scale-institutional-knowledge-using-copilot-spaces/main/.github/images/copilot-spaces-instructions-detail.png" />
 
 - Click **Save**
 
@@ -89,9 +89,9 @@ Add a description:
 1. Select the `docs` and the `.github/ISSUE_TEMPLATE` folders
 1. Verify the repository appears in your sources list
 
-  <img width="30%" height="30%" alt="Add sources" src="../images/add-sources.png" />
-  <img width="30%" height="30%" alt="Add sources repository" src="../images/add-sources-repository.png" />
-  <img width="30%" height="30%" alt="Add sources repository files" src="../images/add-sources-repository-files.png" />
+  <img width="30%" height="30%" alt="Add sources" src="https://raw.githubusercontent.com/fseidler/skills-scale-institutional-knowledge-using-copilot-spaces/main/.github/images/add-sources.png" />
+  <img width="30%" height="30%" alt="Add sources repository" src="https://raw.githubusercontent.com/fseidler/skills-scale-institutional-knowledge-using-copilot-spaces/main/.github/images/add-sources-repository.png" />
+  <img width="30%" height="30%" alt="Add sources repository files" src="https://raw.githubusercontent.com/fseidler/skills-scale-institutional-knowledge-using-copilot-spaces/main/.github/images/add-sources-repository-files.png" />
 
 ### ⌨️ Activity: Create an issue in the repository for a README for OctoAcme Project Management Docs
 
@@ -115,7 +115,7 @@ You can then add this issue to your repository by clicking the **Create** button
 <details>
 <summary> 📷 Show screenshot of the issue draft</summary>
 
-<img width="50%" height="50%" alt="README issue drafted" src="../images/readme-issue-drafted.png" />
+<img width="50%" height="50%" alt="README issue drafted" src="https://raw.githubusercontent.com/fseidler/skills-scale-institutional-knowledge-using-copilot-spaces/main/.github/images/readme-issue-drafted.png" />
 
 </details>
 You can copy or open the link in a new tab to see the newly created issue
@@ -123,7 +123,7 @@ You can copy or open the link in a new tab to see the newly created issue
 <details>
 <summary> 📷 Show screenshot of the created issue</summary>
 
-<img width="50%" height="50%" alt="README issue created" src="../images/readme-issue-created.png" />
+<img width="50%" height="50%" alt="README issue created" src="https://raw.githubusercontent.com/fseidler/skills-scale-institutional-knowledge-using-copilot-spaces/main/.github/images/readme-issue-created.png" />
 
 </details>
 
