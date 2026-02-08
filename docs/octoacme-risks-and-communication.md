@@ -38,5 +38,11 @@ Incident Communication
 - Post-incident blameless retrospective scheduled
 
 ## Escalation Paths
-- Team-level -> PM -> Product Lead -> Sponsor
-- For security incidents, follow the security incident runbook and notify Security on-call
+- Level 1: Team-level triage and resolution (1-3 days)
+- Level 2: PM escalates to Product Lead and dependent teams (3-7 days)
+- Level 3: Sponsor-level escalation for business-impacting issues (1-3 days for decision)
+- Level 4: Executive/Incident response for critical production or security issues (immediate)
+
+For detailed escalation procedures, criteria, and communication templates, see the [Risk Escalation Paths Guide](templates/risk-escalation-paths.md).
+
+**Security Incidents:** Follow the security incident runbook and notify Security on-call immediately. Reference Level 4 escalation in the Risk Escalation Paths Guide.
